@@ -1,0 +1,17 @@
+{
+  "name": "social-socket-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.13",
+    "socket.io": "^4.2.0"
+  }
+}
